@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+DoTween Task/[Ll]ibrary/
+DoTween Task/[Tt]emp/
+DoTween Task/[Oo]bj/
+DoTween Task/[Bb]uild/
+DoTween Task/[Bb]uilds/
+DoTween Task/[Ll]ogs/
+DoTween Task/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
